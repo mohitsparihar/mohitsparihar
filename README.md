@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohitsinghp
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning ReactJS
+- 👋 Hi, I’m Mohit Singh Parihar.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me :-https://www.linkedin.com/in/mohitsinghp/,mohitsinghparihar1511@gmail.com
 
 <!---
