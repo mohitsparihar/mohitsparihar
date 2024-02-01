@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Mohit Singh Parihar.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning ReactJS, NextJS, NodeJS, MongoDB.
-- 📫 How to reach me :-https://www.linkedin.com/in/mohitsparihar/ , mohitsinghparihar@gmail.com
+# Hi, I'm Mohit Singh Parihar! 👋
 
-<!---
-mohitsinghp/mohitsinghp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm interested in Web Development.
+
+🌱 I'm currently learning:
+
+- ReactJS
+- NextJS
+- NodeJS
+- MongoDB
+
+📫 Reach me at:
+- LinkedIn: [linkedin.com/in/mohitsparihar](https://www.linkedin.com/in/mohitsparihar/)
+- Email: mohitsinghparihar@gmail.com
