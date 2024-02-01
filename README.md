@@ -7,6 +7,7 @@
 - ReactJS
 - NextJS
 - NodeJS
+- TypeScript
 - MongoDB
 
 📫 Reach me at:
