@@ -1,4 +1,4 @@
-# Hi, I'm Mohit Singh Parihar! 👋
+# Hi, I'm Mohiit Singh Parihar! 👋
 
 👀 I'm interested in Web Development.
 
