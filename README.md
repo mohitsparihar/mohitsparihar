@@ -11,5 +11,5 @@
 - MongoDB
 
 📫 Reach me at:
-- LinkedIn: [linkedin.com/in/mohitsparihar](https://www.linkedin.com/in/mohitsparihar/)
+- LinkedIn: [linkedin.com/in/mohitsparihar](https://www.linkedin.com/in/mohiitsparihar/)
 - Email: mohitsinghparihar@gmail.com
